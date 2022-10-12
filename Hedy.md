@@ -1,2 +1,2 @@
 Fue una actriz e inventora que, junto a George Antheil, creo el prototipo que permitiría la wifi.
-![image](/imagenes/Hedy.jpg)
+![image](/Imagenes/Hedy.jpg)
